@@ -1,0 +1,2 @@
+Timestamp,Ticker,ProfileRisk,Verdict,InternalScore,AccuracyFlag,HHI_Concentration,Latency_MS
+2026-09-01 16:16:38,TCS,RISK_AVERSE,BUY,0.46,1.0,7222.2,139.02
